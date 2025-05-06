@@ -77,7 +77,7 @@ Simétrica: ideal para grandes volumes de dados e ambientes controlados (ex: bac
 
 Assimétrica: ideal para troca segura de informações em redes públicas (ex: autenticação e troca de chaves em conexões seguras).
 
-### Questão 3: Mitigação de Ataques
+# Questão 3: Mitigação de Ataques
 
 ## 1. SQL Injection (Injeção de SQL)
    O que é:
